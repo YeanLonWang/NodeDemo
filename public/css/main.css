@@ -1,0 +1,24 @@
+.dropdown-current-user {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 5px;
+}
+
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:hover,
+.navbar-default .navbar-nav>.open>a:focus {
+  background: none;
+}
+.navbar-default {
+  background: #444;
+  border: none;
+  border-radius: 0%;
+}
+
+.navbar-brand {
+  padding: 0 15px;
+}
+.navbar-brand img {
+  width: 150px;
+  height: 46px;
+}
